@@ -61,9 +61,3 @@ Customize Your Project: Open the project in your preferred code editor and custo
 Contributions are welcomed. If you encounter any issues or have suggestions for improvements, please submit them via GitHub issues. Additionally, feel free to fork the repository and submit pull requests with your enhancements.
 
 ---
-
-## License
-
-The Web3 Hackathon Starter Kit is open source software licensed under the MIT License. Please see the [LICENSE](./LICENSE)
-
----
